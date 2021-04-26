@@ -12,7 +12,7 @@ namespace ExercitiiGeometrie1
         static void Main(string[] args)
         {
             Console.WriteLine("Numele meu este Szakacsi Ferenc-Adam");
-            Console.WriteLine("Acest program arata exercitii geometrice 1");
+            Console.WriteLine("Acest program arata exercitii geometrie 1");
             EcuatiaSiDistanta();
             Console.WriteLine("Va rog asteptati,se incarca problema urmatoare...");
             Thread.Sleep(500);
